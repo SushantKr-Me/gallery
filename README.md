@@ -1,6 +1,6 @@
 # SUSHANT — The Collection
 
-An immersive, scroll-driven 3D web gallery showcasing a 20-work collection of nature photography[span_0](start_span)[span_0](end_span). Built entirely through modern AI-assisted "vibecoding," this project blends high-end architectural aesthetics with playful interactive elements and smooth hardware-accelerated WebGL performance.
+An immersive, scroll-driven 3D web gallery showcasing a 20-work collection of nature photography. Built entirely through modern AI-assisted "vibecoding," this project blends high-end architectural aesthetics with playful interactive elements and smooth hardware-accelerated WebGL performance.
 
 ## ✨ Key Features
 
