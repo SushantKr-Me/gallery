@@ -16,7 +16,7 @@ An immersive, scroll-driven 3D web gallery showcasing a 20-work collection of na
 ## 🛠️ Tech Stack & Libraries
 
 * **Core 3D & Graphics:** [Three.js](https://threejs.org/) (WebGL Renderer)
-* **Animation & Timelines:** [GSAP (GreenSock)](https://greens gsap.com/) & ScrollTrigger
+* **Animation & Timelines:** [GSAP (GreenSock)](https://gsap.com/) & ScrollTrigger
 * **Smooth Scrolling:** [Lenis](https://lenis.studiofreight.com/)
 * **Typography:** [Cormorant Garamond](https://fonts.google.com/specimen/Cormorant+Garamond) & [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk)
 * **Styling & Assets:** Vanilla CSS3, SVG, HTML5 Canvas
